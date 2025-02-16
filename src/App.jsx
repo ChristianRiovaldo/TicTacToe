@@ -1,4 +1,4 @@
-// Just a Comand Line
+// Just a Command Line
 
 import { useState } from "react";
 import Board from "./components/Board.jsx";
